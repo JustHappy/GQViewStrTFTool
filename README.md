@@ -1,0 +1,2 @@
+# GQViewStrTFTool
+一个包含字符串判断View的x、y、width、height的扩展和TextField的placeholder的颜色的工具
